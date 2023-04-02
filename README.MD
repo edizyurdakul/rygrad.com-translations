@@ -26,8 +26,6 @@ Teknik olarak yeni diller ekleyebilirsiniz, ancak şu anda daha fazla dil ekleme
 
 ---
 
----
-
 # EN - [studio.rygrad.com](https://studio.rygrad.com/)
 
 Thanks for showing interest to contribute to our translation efforts!
