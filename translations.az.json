@@ -1,0 +1,95 @@
+{
+  "Header": {
+    "game": "Oyun",
+    "media": "Media",
+    "news": "Xəbərlər",
+    "press": "Press",
+    "community": "İcma",
+    "team": "Komanda"
+  },
+  "Button": { "wishlist": "İSTƏKLƏR SİYAHISINA ƏLAVƏ EDİN" },
+  "Hero": {
+    "headline": "Qalib gəl, güclən, hakim ol!",
+    "subheadline": "Çətin və amansız bir macəra sizi gözləyir, bu macərada təhlükəli məxluqlar və naməlum hava şəraiti ilə dolu mühitdə sağ qalmaq və inkişaf etmək lazımdır",
+    "paragraph": "Oyuncular təbii sərvətlər istifadə edərək sığınacaqlar, öz evlərini, silahları, nəqliyyat vasitələrini və digər yaşamaq ehtiyatlarını quracaqlar. Həm də çiftlik işləri ilə məşğul olaraq heyvanları yedirmək və ovçuçuluq edəcəklər. Strateji düşüncələri, sərvətləri düzgün istifadə etmələri və bir-biri ilə əməkdaşlıq edərək sağ qalmaq üçün ən yaxşı yolun tapılması tələb olunacaq. Rygrad dünyası, oyunculara heyranedici bir orta əsr təcrübəsi təqdim edəcək və birlikdə çətin bir sağ qalma mübarizəsinə qoyacaq.",
+    "singleplayer": {
+      "title": "Tək oyunçu",
+      "paragraph": "Orta əsrlərdə tək başınasınız! Aclıq, susuzluq, xəstəliklər və agressiv düşmənlərlə dolu bir macəra sizi gözləyir! Həyatta qalmaq üçün bacarıqlarınızı və strategiyalarınızı istifadə edin. Unutmayın, hər qərarınızın nəticələri olacaq və hər addımınıza diqqət etməlisiniz."
+    },
+    "coop": {
+      "title": "Çevrimiçi Eşli Oyun",
+      "paragraph": "Siz və dostlarınız Orta Əsr dövründə birlikdə mübarizə aparırsınız! Çətin şəraitlərlə və agressiv düşmənlərlə dolu bir dünyada yaşamaq üçün bir-birinə güvənməlisiniz. Həm yaşamaq, həm də sağ qalmaq qrup işidir!"
+    },
+    "multiplayer": {
+      "title": "Onlayn PvP",
+      "paragraph": "Həyatta qalmaq üçün dostlarınla birləş və orta çağ dünyasında bir komanda yarat ! Çətin şəraitlərdə sağ qalmaq, birlik və strategiya ilə əlaqəlidir. Onlayn birlikdə oynayın və çətin macəralarda bir-birinizə dəstək olun. Bütün maneələri öhdəsindən gələrək, ən güclü komanda siz olun!"
+    }
+  },
+  "Trailer": {
+    "title": "Əvvəlcədən Giriş Trailer-i",
+    "paragraph": "Oyun hazırda tamamlanmış statusunda deyil, lakin Steam sizə inkişaf mərhələsində oyunu almağa icazə verir"
+  },
+  "Features": {
+    "survive": "Hayatta qalmaq",
+    "craft": "Əşyaların hazırlanması",
+    "build": "İnşa etmək",
+    "farm": "Kənd təsərrüfatı",
+    "sail": "Dənizdə səyahət etmək"
+  },
+  "FeaturesBlock": {
+    "first": {
+      "title": "Bərəkətli Yollara Səyahət",
+      "paragraph": "Rygrad-da səyahətiniz zamanı siz yaxınlıqdakı kəndlərlə ərzaq, resurslar və digər təchizat üçün ticarət əlaqələri qura bilərsiniz. Həmçinin qonşu icmalarla əlaqələr yarada və yeni resurslara çıxış əldə edə bilərsiniz."
+    },
+    "second": {
+      "title": "Sağ Qalmaq Üçün Təbii Fəlakətlərlə Mübarizə Aparın",
+      "paragraph": "Hər mövsümün özünəməxsus təbiət şıltaqlığına uyğunlaşın - yazda ehtiyyatlarınızı (resurslarınızı) toplayın, yayda istilik və quraqlığa dözün, payızda məhsullarınızı biçin və qışın fırtınalarına və şaxtalı havasına rəğmən sağ qalmağa çalışın. Orta əsr dünyasının çətin həyat şəraitində sağ qala biləcəksinizmi?"
+    }
+  },
+  "Community": {
+    "title": "İcmamıza qoşulun!",
+    "paragraph": "Çox əyləncəli icmamız var, müzakirə üçün bizim sosial mediya hesablarımıza daxil ola bilərsən!",
+    "button": "DISCORD"
+  },
+  "Media": { "title": "Media" },
+  "Press": {
+    "title": "Haqqında",
+    "button": "Haqqımızda məlumatları yüklə",
+    "fact": {
+      "title": "Məlumat Səhifəsi",
+      "developer": { "title": "Hazırlayan", "description": "Rygrad Studio" },
+      "release": { "title": "Buraxılış tarixi", "description": "Tezliklə" },
+      "platform": { "title": "Platformalar", "description": "PC, Steam" },
+      "price": { "title": "Qiymət", "description": "Təyin edilməyib" },
+      "availability": {
+        "title": "Mövcudluq",
+        "description": "Rəqəmsal Yükləmə"
+      },
+      "languages": {
+        "title": "Dillər",
+        "description": "Türk, İngilis, Azərbaycan, Fransız, Alman, Rus, İspan, Çin, Yunan, İtalyan"
+      },
+      "rating": { "title": "ESRB", "description": "Böyüklər (AO)" },
+      "contact": { "title": "Əlaqə", "description": "info@rygrad.com" },
+      "website": { "title": "Veb sayt", "description": "rygrad.com" }
+    },
+    "description": {
+      "title": "İzahat",
+      "description": "Rygrad orta əsrləri əhatə  edən dövrdə həyatda qalma mübarizəsinə həsr edilən  oyundur. Oyunun əsas məqsədi həyatda sağ qalmaq üçün mübarizə aparmaqdır. Açıq dünya arxipelagında qurulan oyun mühitində oyunçular bir çox adaya səyahət edə bilərlər. Hər bir adanın üstünlükləri və mənfi cəhətləri oyunçulara risk və mükafat seçimi təklif edir. Digər oyunçular və ya NPC-lərlə çətin qarşılaşmalar üçün 4 tərəfli döyüş sistemi mövcuddur. Ticarət etmək və xarakterinizi təkmilləşdirmək üçün müxtəlif bacarıqlar mövcuddur."
+    },
+    "trailer": "Video treyler",
+    "images": "Şəkillər",
+    "company": {
+      "title": "Şirkət Hekayəsi",
+      "description": "Rygrad Studio, Tuğkan (Elraen) Gönültaş və Lance Games ilə ortaq şəkildə könüllü bir komanda tərəfindən quruldu. Rygrad Studio bir türk şirkətidir və ilk oyunu olan 'Rygrad' ilə istehsala başladığını açıqladı. Bu sağ qalma oyunu PC və Steam platformalarında buraxılmışdır."
+    },
+    "logo": "Logo"
+  },
+  "Team": {
+    "title": "Rygrad Komandası",
+    "description": "Rygrad, Tuğkan (Elraen) Gönültaş və Lance Games tərəfindən birgə gönüllü bir komanda tərəfindən inkişaf etdirilir və hazırlanır. Türkiyədəki könüllü insanlar, Rygrad Studio'nun ilk oyunu olan 'Rygrad' üçün kömək etmək məqsədilə bir araya gəldilər.",
+    "head": "İdarəetmə Komandası",
+    "main": "Komanda",
+    "tester": "Tester"
+  }
+}

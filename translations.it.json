@@ -1,0 +1,95 @@
+{
+  "Header": {
+    "game": "Il gioco",
+    "media": "Media",
+    "news": "Notizie",
+    "press": "Stampa",
+    "community": "Comunità",
+    "team": "Squadra"
+  },
+  "Button": { "wishlist": "AGGIUNGI ALLA LISTA DEI DESIDERI", "community": "" },
+  "Hero": {
+    "headline": "Sopravvivi, Rinforzati, Domina!",
+    "subheadline": "Ti aspetta un'avventura difficile e spietata, dove dovrai sopravvivere e prosperare in un ambiente pieno di creature pericolose e condizioni meteorologiche imprevedibili.",
+    "paragraph": "I giocatori utilizzeranno le risorse naturali per costruire rifugi, case, armi, veicoli e altri strumenti di sopravvivenza personalizzati. Inoltre, praticheranno l'agricoltura, nutriranno gli animali e caccieranno. Dovranno pensare strategicamente, utilizzare le risorse in modo corretto e collaborare tra di loro per trovare la soluzione migliore per sopravvivere. Il mondo di Rygrad offrirà un'emozionante esperienza medievale che metterà i giocatori di fronte a una sfida di sopravvivenza impegnativa.",
+    "singleplayer": {
+      "title": "Giocatore Singolo",
+      "paragraph": "Sei solo nel Medioevo! Ti aspetta un'avventura piena di fame, sete, malattie e nemici aggressivi!"
+    },
+    "coop": {
+      "title": "Partita cooperativa online",
+      "paragraph": "Gomito a gomito, crea un team con i tuoi amici per sopravvivere nel mondo medievale!"
+    },
+    "multiplayer": {
+      "title": "PvP Online",
+      "paragraph": "Tu e i tuoi amici competirete contro i giocatori online nel periodo medievale. Ricorda, sopravvivere e vivere sono sforzi di squadra!"
+    }
+  },
+  "Trailer": {
+    "title": "Trailer Accesso Anticipato",
+    "paragraph": "Puoi acquistare il gioco su Steam durante la sua fase di sviluppo e ti informa che il gioco è ancora 'incompleto'."
+  },
+  "Features": {
+    "survive": "Sopravvivenza",
+    "craft": "Artigianato",
+    "build": "Costruzione",
+    "farm": "Agricoltura",
+    "sail": "Navigazione"
+  },
+  "FeaturesBlock": {
+    "first": {
+      "title": "Viaggio verso sentieri prosperi",
+      "paragraph": "A Rygrad, durante il tuo viaggio di esplorazione, puoi trovare e commerciare con i villaggi vicini per cibo, risorse e altri forniture. Puoi costruire relazioni solide con le comunità vicine e ottenere accesso a nuove risorse."
+    },
+    "second": {
+      "title": "Sopravvivi contro gli elementi naturali severi",
+      "paragraph": "Adatta alle sfide uniche di ogni stagione: raccogli risorse in primavera, sopporta le onde di calore e le siccità in estate, raccogli i raccolti in autunno e sopravvivi a nevicate e temperature gelide in inverno. Puoi sopravvivere alle dure condizioni del mondo medievale?"
+    }
+  },
+  "Community": {
+    "title": "Unisciti alla nostra tribù!",
+    "paragraph": "Abbiamo una comunità incredibile, perché aspettare per unirti alla discussione? Seguici sui nostri account sui social media e vieni a salutare!",
+    "button": "DISCORD"
+  },
+  "Media": { "title": "Media" },
+  "Press": {
+    "title": "Press Kit",
+    "button": "SCARICA IL PRESS KIT",
+    "fact": {
+      "title": "Scheda tecnica",
+      "developer": { "title": "Sviluppatore", "description": "Rygrad Studio" },
+      "release": { "title": "Data di uscita", "description": "Prossimamente" },
+      "platform": { "title": "Piattaforme", "description": "PC, Steam" },
+      "price": { "title": "Prezzo", "description": "da determinare" },
+      "availability": {
+        "title": "Disponibilità",
+        "description": "Download digitale"
+      },
+      "languages": {
+        "title": "Lingue",
+        "description": "turco, inglese, azero, francese, tedesco, russo, spagnolo, cinese, greco, italiano"
+      },
+      "rating": { "title": "ESRB", "description": "Solo per adulti (AO)" },
+      "contact": { "title": "Contatto", "description": "info@rygrad.com" },
+      "website": { "title": "Sito web", "description": "rygrad.com" }
+    },
+    "description": {
+      "title": "Descrizione",
+      "description": "Rygrad è un gioco di sopravvivenza medievale in cui l'obiettivo principale è lottare per la propria sopravvivenza. Ambientato in un arcipelago a mondo aperto, i giocatori possono navigare verso molte isole, ognuna con i propri vantaggi e svantaggi, offrendo al giocatore la scelta del rischio e della ricompensa. Sistema di combattimento a 4 vie per incontri impegnativi con altri giocatori o NPC. Commercio e varietà di abilità per migliorare il proprio personaggio."
+    },
+    "trailer": "Trailer video",
+    "images": "Immagini",
+    "company": {
+      "title": "Storia dell'azienda",
+      "description": "Rygrad Studio è stata fondata da un team di volontari in collaborazione con Tuğkan (Elraen) Gönültaş e Lance Games. Rygrad Studio è un'azienda turca che ha annunciato il suo primo gioco, 'Rygrad', e ne ha iniziato lo sviluppo. Questo gioco di sopravvivenza è stato rilasciato su PC e piattaforme Steam."
+    },
+    "logo": "Logo"
+  },
+  "Team": {
+    "title": "Team di Rygrad",
+    "description": "Rygrad sta venendo sviluppato e costruito da un team di volontari in collaborazione con Tuğkan (Elraen) Gönültaş e Lance Games. In Turchia, persone volontarie si sono unite per contribuire a 'Rygrad', il primo gioco di Rygrad Studio.",
+    "head": "Team di gestione",
+    "main": "Team",
+    "tester": "Tester"
+  }
+}

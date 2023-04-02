@@ -1,0 +1,92 @@
+{
+  "Header": {
+    "game": "Oyun",
+    "media": "Medya",
+    "news": "Haberler",
+    "press": "Basın",
+    "community": "Topluluk",
+    "team": "Ekip"
+  },
+  "Button": { "wishlist": "İSTEK LİSTESİNE EKLE", "community": "" },
+  "Hero": {
+    "headline": "Hayatta Kal, Güçlen, Hükmet!",
+    "subheadline": "Zorlu ve affedilmez bir çevrede hayatta kalın ve gelişin, tehlikeli yaratıklarla ve öngörülemeyen hava koşullarıyla dolu macera seni bekliyor.",
+    "paragraph": "Oyuncular doğal kaynakları kullanarak barınaklar, kendi tasarladıkları evler, silahlar, araçlar ve diğer hayatta kalma ekipmanlarını inşa edecekler. Ayrıca çiftçilik yapacak, hayvanları besleyecek ve avlanacaklar. Stratejik düşünmek, kaynakları doğru kullanmak ve hayatta kalmak için en iyi yolu bulmak için birbirleriyle işbirliği yapmaları gerekecek. Rygrad dünyası, heyecan verici bir orta çağ deneyimi sunarken aynı zamanda oyuncuları zorlu bir hayatta kalma mücadelesine sokacak.",
+    "singleplayer": {
+      "title": "Tek Oyuncu",
+      "paragraph": "Orta Çağ'da yalnız başınıza kaldınız! Açlık, susuzluk, hastalıklar ve saldırgan düşmanlarla dolu bir macera sizi bekliyor!"
+    },
+    "coop": {
+      "title": "Çevrimiçi Eşli Oyun",
+      "paragraph": "Arkadaşlarınızla bir takım oluşturarak ortaçağ dünyasında hayatta kalmak için birlikte mücadele etmelisin."
+    },
+    "multiplayer": {
+      "title": "Çevrimiçi PvP",
+      "paragraph": "Siz ve arkadaşlarınız ortaçağda çevrimiçi oyuncularla yarışacaksınız. Unutmayın, hayatta kalmak ve yaşamak her zaman takım çalışması gerektirir!"
+    }
+  },
+  "Trailer": {
+    "title": "Erken Erişim Fragmanı",
+    "paragraph": "Oyunun Steam'de hala geliştirme aşamasındayken satın alabilmenizi sağlar ve henüz 'bitmemiş' olduğuna dair bilgi verir."
+  },
+  "Features": {
+    "survive": "Hayatta Kal",
+    "craft": "Üret",
+    "build": "İnşa Et",
+    "farm": "Çiftçilik",
+    "sail": "Denizlere Açıl"
+  },
+  "FeaturesBlock": {
+    "first": {
+      "title": "Bereketli Yollara Yolculuk",
+      "paragraph": "Rygrad'da keşif yolculuğunuz sırasında, yakındaki köylerle yiyecek, kaynaklar ve diğer malzemeler için ticaret yapabilirsiniz. Komşu topluluklarla güçlü ilişkiler kurabilir ve yeni kaynaklara erişebilirsiniz."
+    },
+    "second": {
+      "title": "Doğanın Sert Unsurlarına Karşı Hayatta Kalın",
+      "paragraph": "Her mevsimin benzersiz zorluklarına uyum sağlayın - ilkbaharda kaynakları toplayın, yazın sıcak dalgaları ve kuraklıkları katlanın, sonbaharda ürünlerinizi hasat edin ve kışın fırtınalar ve dondurucu sıcaklıklarla hayatta kalın. Orta Çağ dünyasının zorlu koşullarında hayatta kalabilecek misiniz?"
+    }
+  },
+  "Community": {
+    "title": "Kabilemize Katılın!",
+    "paragraph": "Harika bir topluluğumuz var, neden tartışmalara katılmak için bekliyorsunuz? Sosyal medya hesaplarımızı takip edin ve bize merhaba deyin!",
+    "button": "DISCORD"
+  },
+  "Media": { "title": "Media" },
+  "Press": {
+    "title": "Basın Kiti",
+    "button": "BASIN KİTİ İNDİR",
+    "fact": {
+      "title": "Bilgi Sayfası",
+      "developer": { "title": "Geliştirici", "description": "Rygrad Studio" },
+      "release": { "title": "Çıkış Tarihi", "description": "Yakında" },
+      "platform": { "title": "Platformlar", "description": "PC, Steam" },
+      "price": { "title": "Fiyat", "description": "Belirtilmemiş" },
+      "availability": { "title": "Uygunluk", "description": "Dijital İndirme" },
+      "languages": {
+        "title": "Diller",
+        "description": "Türkçe, İngilizce, Azerice, Fransızca, Almanca, Rusça, İspanyolca, Çince, Yunanca, İtalyanca"
+      },
+      "rating": { "title": "ESRB", "description": "Yetişkinler (AO)" },
+      "contact": { "title": "İletişim", "description": "info@rygrad.com" },
+      "website": { "title": "Website", "description": "rygrad.com" }
+    },
+    "description": {
+      "title": "Açıklama",
+      "description": "Rygrad, Orta Çağ'da geçen bir hayatta kalma oyunudur. Oyunun ana amacı, hayatta kalmak için savaşmaktır. Açık dünya bir arkipel içinde geçen oyunda, oyuncular birçok adaya seyahat edebilirler. Her adanın avantajları ve dezavantajları oyunculara risk ve ödül seçenekleri sunar. Zorlu diğer oyuncular veya NPC'lerle karşılaşmalar için 4 yönlü bir dövüş sistemi bulunmaktadır. Ticaret yapma ve karakterinizi geliştirmek için çeşitli beceriler mevcuttur."
+    },
+    "trailer": "Video Fragmanı",
+    "images": "Görüntüler",
+    "company": {
+      "title": "Şirket Hikayesi",
+      "description": "Rygrad Studio, gönüllü bir ekip tarafından Tuğkan (Elraen) Gönültaş ve Lance Games ortaklığında kurulmuştur. Rygrad Studio, Türk bir firmadır ve ilk oyunu olan 'Rygrad' ile yapımına başladığını duyurmuştur. Bu hayatta kalma oyunu, PC ve Steam platformlarında piyasaya sürülmüştür."
+    },
+    "logo": "Logo"
+  },
+  "Team": {
+    "title": "Rygrad Ekibi",
+    "description": "Rygrad, Tuğkan (Elraen) Gönültaş ve Lance Games tarafından ortaklaşa gönüllü bir ekip tarafından geliştiriliyor ve inşa ediliyor. Türkiye'deki gönüllü insanlar, Rygrad Studio'nun ilk oyunu olan 'Rygrad' için katkıda bulunmak amacıyla bir araya geldi.",
+    "head": "Yönetim Ekibi",
+    "main": "Ekip",
+    "tester": "Tester"
+  }
+}

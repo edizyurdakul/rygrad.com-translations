@@ -1,0 +1,95 @@
+{
+  "Header": {
+    "game": "The Game",
+    "media": "Media",
+    "news": "News",
+    "press": "Press",
+    "community": "Community",
+    "team": "Team"
+  },
+  "Button": { "wishlist": "WISHLIST ON STEAM", "community": "" },
+  "Hero": {
+    "headline": "Be Alive, Get Stronger, Dominate!",
+    "subheadline": "A challenging and unforgiving adventure awaits you, where you will need to survive and thrive in an environment filled with dangerous creatures and unpredictable weather.",
+    "paragraph": "Players will build shelters, their own designed houses, weapons, vehicles, and other survival equipment using natural resources. They will also farm, feed animals, and hunt. They will need to work together to think strategically, use resources wisely, and find the best way to survive. Rygrad world will provide an exciting medieval experience while also putting players in a challenging survival struggle.",
+    "singleplayer": {
+      "title": "Singleplayer",
+      "paragraph": "You are alone in the Middle Ages! An adventure filled with hunger, thirst, diseases, and aggressive enemies awaits you!"
+    },
+    "coop": {
+      "title": "Online Co-op",
+      "paragraph": "Elbow to elbow, create a team with your friends to survive in the medieval world!"
+    },
+    "multiplayer": {
+      "title": "Online PvP",
+      "paragraph": "You and your friends will compete against online players in the medieval times. Remember, both surviving and living are team efforts!"
+    }
+  },
+  "Trailer": {
+    "title": "Early Access Trailer",
+    "paragraph": "You can purchase the game on Steam during its development stage and it informs you that the game is still 'unfinished'."
+  },
+  "Features": {
+    "survive": "Survive",
+    "craft": "Craft",
+    "build": "Build",
+    "farm": "Farm",
+    "sail": "Sail"
+  },
+  "FeaturesBlock": {
+    "first": {
+      "title": "Journey to Prosperous Paths",
+      "paragraph": "In Rygrad, during your journey of exploration, you can find and trade with nearby villages for food, resources, and other supplies. You can build strong relationships with neighboring communities and gain access to new resources."
+    },
+    "second": {
+      "title": "Survive Against the Harsh Elements of Nature",
+      "paragraph": "Adapt to the unique challenges of each season - gather resources in Spring, endure heat waves and droughts in Summer, harvest crops in Autumn, and survive blizzards and freezing temperatures in Winter. Can you survive the harsh conditions of the medieval world?"
+    }
+  },
+  "Community": {
+    "title": "Join Our Tribe!",
+    "paragraph": "We have an amazing community, why wait to join the discussion? Follow us on our social media accounts and come say hello!",
+    "button": "DISCORD"
+  },
+  "Media": { "title": "Media" },
+  "Press": {
+    "title": "Press Kit",
+    "button": "DOWNLOAD PRESSKIT",
+    "fact": {
+      "title": "Fact Sheet",
+      "developer": { "title": "Developer", "description": "Rygrad Studio" },
+      "release": { "title": "Release Date", "description": "Coming Soon" },
+      "platform": { "title": "Platformlar", "description": "PC, Steam" },
+      "price": { "title": "Price", "description": "TBD" },
+      "availability": {
+        "title": "Availability",
+        "description": "Digital Download"
+      },
+      "languages": {
+        "title": "Languages",
+        "description": "Turkish, English, Azerbaijani, French, German, Russian, Spanish, Chinese, Greek, Italian"
+      },
+      "rating": { "title": "ESRB", "description": "Adults Only (AO)" },
+      "contact": { "title": "Contact", "description": "info@rygrad.com" },
+      "website": { "title": "Website", "description": "rygrad.com" }
+    },
+    "description": {
+      "title": "Description",
+      "description": "Rygrad is a medieval survival game, the main goal of the game is to fight for your survival. Set in an open world archipelago, the players can sail to multiple islands, each island has it benefits and negatives gives the player of choice of risk and reward. 4 way combat system for a challenging encounters with other players or NPCs. Trading, and variety of skills to improve your character."
+    },
+    "trailer": "Video Trailer",
+    "images": "Images",
+    "company": {
+      "title": "Company Story",
+      "description": "Rygrad Studio was founded by a volunteer team in partnership with Tuğkan (Elraen) Gönültaş and Lance Games. Rygrad Studio is a Turkish company that announced its first game, 'Rygrad', and started its development. This survival game was released on PC and Steam platforms."
+    },
+    "logo": "Logo"
+  },
+  "Team": {
+    "title": "Rygrad Team",
+    "description": "Rygrad is being developed and built by a volunteer team in collaboration with Tuğkan (Elraen) Gönültaş and Lance Games. In Turkey, volunteer individuals came together to contribute to 'Rygrad' the first game of Rygrad Studio.",
+    "head": "Management Team",
+    "main": "Team",
+    "tester": "Tester"
+  }
+}
