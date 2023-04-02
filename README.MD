@@ -1,6 +1,7 @@
 # TR - [studio.rygrad.com](https://studio.rygrad.com/)
 
 Çeviri çalışmalarımıza katkıda bulunmak üzere ilgi gösterdiğiniz için teşekkür ederiz!
+If you have no experience with GitHub, and still wan't to contribute feel free to contact me through discord (PWSey#5671).
 
 ## Dosyaları Almak
 
