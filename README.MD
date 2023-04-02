@@ -1,7 +1,7 @@
 # TR - [studio.rygrad.com](https://studio.rygrad.com/)
 
 Çeviri çalışmalarımıza katkıda bulunmak üzere ilgi gösterdiğiniz için teşekkür ederiz!
-If you have no experience with GitHub, and still wan't to contribute feel free to contact me through discord (PWSey#5671).
+GitHub ile hiç deneyiminiz yoksa ve yine de katkıda bulunmak istemiyorsanız, benimle discord aracılığıyla iletişime geçmekten çekinmeyin (PWSey#5671).
 
 ## Dosyaları Almak
 
@@ -30,6 +30,7 @@ Teknik olarak yeni diller ekleyebilirsiniz, ancak şu anda daha fazla dil ekleme
 # EN - [studio.rygrad.com](https://studio.rygrad.com/)
 
 Thanks for showing interest to contribute to our translation efforts!
+If you have no experience with GitHub, and still wan't to contribute feel free to contact me through discord (PWSey#5671).
 
 ## Get files
 
