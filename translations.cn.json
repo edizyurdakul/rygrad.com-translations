@@ -1,92 +1,92 @@
 {
   "Header": {
     "game": "游戏",
-    "media": "媒体",
+    "media": "大众传媒",
     "news": "新闻",
-    "press": "新闻",
-    "community": "社区",
-    "team": "团队 (Tuánduì)"
+    "press": "出版社",
+    "community": "支架",
+    "team": "队"
   },
-  "Button": { "wishlist": "添加至您的愿望单", "community": "" },
+  "Button": { "wishlist": "添加到愿望清单", "community": "" },
   "Hero": {
-    "headline": "生存、增强、统治！",
-    "subheadline": "等待着您的是一场艰难而无情的冒险，在这场冒险中您需要在一个充满危险生物和不可预测天气条件的环境中生存和发展。",
-    "paragraph": "玩家将利用自然资源建造庇护所、房屋、武器、车辆和其他个性化的生存装备。此外，他们还会耕种、喂养动物和狩猎。他们需要战略性地思考，正确地利用资源，并相互合作找到最佳生存之道。Rygrad世界将为玩家带来一个激动人心的中世纪体验，同时也将让他们面临严峻的生存挑战。",
+    "headline": "生存，更强大，主宰！",
+    "subheadline": "在充满挑战和不可原谅的环境中生存，你的到来，充满危险生物和不可预见的天气条件的冒险等待着你。",
+    "paragraph": "玩家将使用自然资源建造避难所、他们设计的房屋、武器、车辆和其他生存设备。 他们还将养殖、喂养和猎杀动物。 他们需要相互合作，进行战略思考，正确使用资源，并找到生存的最佳方式。 Rygrad世界将提供令人兴奋的中世纪体验，同时让玩家面临具有挑战性的生存挑战。",
     "singleplayer": {
       "title": "单人游戏",
-      "paragraph": "你独自一人处于中世纪！充满饥饿、口渴、疾病和敌人的冒险等着你！"
+      "paragraph": "在中世纪，你独自一人！ 一场充满饥饿、口渴、疾病和咄咄逼人的敌人的冒险等待着你！"
     },
     "coop": {
-      "title": "在线合作",
-      "paragraph": "肘部挨着肘部，和你的朋友创建一个团队，在中世纪世界中生存！"
+      "title": "在线配对游戏",
+      "paragraph": "通过与朋友组成一个团队，你们必须一起战斗，才能在中世纪世界生存。"
     },
     "multiplayer": {
-      "title": "线上玩家对战",
-      "paragraph": "你和你的朋友将与在线玩家竞争中世纪时代。记住，生存和生活都需要团队合作！"
+      "title": "在线玩家对玩家",
+      "paragraph": "你和你的朋友将在中世纪与在线玩家竞争。 记住，生存和生活总是需要团队合作！"
     }
   },
   "Trailer": {
     "title": "早期访问预告片",
-    "paragraph": "你可以在Steam上购买游戏，因为游戏正在开发阶段，因此它会告诉你游戏仍然是“未完成”的。"
+    "paragraph": "它允许您在仍在开发期间在Steam上购买游戏，并通知您它尚未“完成”。"
   },
   "Features": {
-    "survive": "生存",
-    "craft": "手工艺",
-    "build": "建造",
+    "survive": "存留",
+    "craft": "生产",
+    "build": "建造它",
     "farm": "农业",
-    "sail": "航行"
+    "sail": "向大海开放"
   },
   "FeaturesBlock": {
     "first": {
-      "title": "通往繁荣之路的旅程",
-      "paragraph": "在Rygrad，您在探索旅途中可以找到并与附近的村庄进行贸易，以获取食物、资源和其他物资。您可以与邻近社区建立稳固的关系，并获得新的资源。"
+      "title": "肥沃的道路之旅",
+      "paragraph": "在Rygrad探险期间，您可以与附近的村庄交换食物、资源和其他用品。 您可以与邻近社区建立牢固的关系，并访问新的资源。"
     },
     "second": {
-      "title": "生存于严酷自然环境之下",
-      "paragraph": "适应每个季节的独特挑战——春季采集资源，夏季忍受热浪和干旱，秋季收获庄稼，冬季生存于暴风雪和冰冷温度之中。您能否在中世纪严苛的条件下生存下来？"
+      "title": "在大自然的严酷元素中生存",
+      "paragraph": "适应每个季节的独特挑战-在春季收集资源，在夏季增加热浪和干旱，在秋季收获庄稼，并在冬季的风暴和冰冻温度中生存。 你会在中世纪世界的恶劣条件下生存下来吗？"
     }
   },
   "Community": {
     "title": "加入我们的部落！",
-    "paragraph": "我们有一个神奇的社区，为什么不加入我们的讨论呢？在我们的社交媒体账户上关注我们，来打个招呼吧！",
+    "paragraph": "我们有一个很棒的社区，你为什么要等待参加讨论？ 关注我们的社交媒体帐户，向我们问好！",
     "button": "DISCORD"
   },
-  "Media": { "title": "Media" },
+  "Media": { "title": "大众传媒" },
   "Press": {
-    "title": "新闻资料袋",
-    "button": "下载新闻稿套件",
+    "title": "新闻工具包",
+    "button": "下载新闻工具包",
     "fact": {
-      "title": "基本信息",
-      "developer": { "title": "开发者", "description": "Rygrad Studio" },
-      "release": { "title": "发行日期", "description": "即将发布" },
-      "platform": { "title": "平台", "description": "PC, Steam" },
-      "price": { "title": "价格", "description": "待定" },
-      "availability": { "title": "可用性", "description": "数字下载" },
+      "title": "信息页面",
+      "developer": { "title": "开发商", "description": "Rygrad Studio" },
+      "release": { "title": "发布日期", "description": "在附近" },
+      "platform": { "title": "平台", "description": "个人电脑, Steam" },
+      "price": { "title": "价格", "description": "未指定" },
+      "availability": { "title": "便利", "description": "数字下载" },
       "languages": {
         "title": "语言",
-        "description": "土耳其语，英语，阿塞拜疆语，法语，德语，俄语，西班牙语，中文，希腊语，意大利语"
+        "description": "Türkçe, English, Azərbaycan, Français, Deutsch, Русский, українська, Castellano, 中国人, Ελληνικά "
       },
-      "rating": { "title": "ESRB评级", "description": "成人 (AO)" },
+      "rating": { "title": "ESRB", "description": "成人 (AO)" },
       "contact": { "title": "联系方式", "description": "info@rygrad.com" },
-      "website": { "title": "网站", "description": "rygrad.com" }
+      "website": { "title": "网站网站", "description": "rygrad.com" }
     },
     "description": {
-      "title": "描述",
-      "description": "Rygrad是一款中世纪生存游戏，主要目标是为了生存而战。游戏设置在一个开放世界的群岛上，玩家可以航行到多个岛屿，每个岛屿都有它的优点和缺点，给玩家带来了风险和回报的选择。四向战斗系统，让玩家与其他玩家或NPC进行挑战性的交锋。交易和各种技能以提高您的角色。"
+      "title": "解释",
+      "description": "Rygrad是一款以中世纪为背景的生存游戏。 游戏的主要目标是为生存而战。 以开放世界群岛为背景，玩家可以前往许多岛屿。 每个岛屿的优缺点为玩家提供了风险和奖励选择。 有一个4路战斗系统，可以与其他具有挑战性的玩家或NPC相遇。 各种技能可用于交易和提高你的性格。"
     },
     "trailer": "视频预告片",
-    "images": "图片",
+    "images": "图像",
     "company": {
       "title": "公司故事",
-      "description": "Rygrad Studio由志愿团队与Tuğkan（Elraen）Gönültaş和Lance Games合作成立。 Rygrad Studio是一家土耳其公司，宣布了其第一款游戏“ Rygrad”，并开始了开发。这款生存游戏已在PC和Steam平台上发布。"
+      "description": "Rygrad Studio由一个志愿者团队与Tuğkan (Elraenn) Gönültaş和Lance Games合作成立。 Rygrad Studio是一家土耳其公司，并宣布已开始制作其第一款游戏《Rygrad》。 这款生存游戏在PC和Steam平台上发布。"
     },
-    "logo": "徽标"
+    "logo": "标识"
   },
   "Team": {
     "title": "Rygrad团队",
-    "description": "Rygrad由志愿团队与Tuğkan（Elraen）Gönültaş和Lance Games合作开发和构建。在土耳其，志愿者个人汇聚在一起为Rygrad Studio的第一款游戏“Rygrad”做出贡献。",
+    "description": "Rygrad是由Tuğkan (Elraen) Gönültaş和Lance Games联合开发的志愿者团队开发和建造的。 土耳其的志愿者聚集在一起，为Rygrad Studio的第一款游戏“Rygrad”做出贡献。",
     "head": "管理团队",
-    "main": "团队",
-    "tester": "Tester"
+    "main": "队",
+    "tester": "尝试"
   }
 }
