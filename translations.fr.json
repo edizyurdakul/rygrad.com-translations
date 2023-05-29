@@ -26,12 +26,12 @@
     }
   },
   "Trailer": {
-    "title": "Erken Erişim Fragmanı",
+    "title": "Bande-annonce de l'accès anticipé",
     "paragraph": "Il vous permet d'acheter le jeu sur Steam alors qu'il est encore en développement et vous informe qu'il n'est pas encore 'terminé'."
   },
   "Features": {
     "survive": "Survivre",
-    "craft": "Produire",
+    "craft": "L'artisanat produire du matériel",
     "build": "Construisez-le",
     "farm": "Agriculture",
     "sail": "Ouvert aux mers"
