@@ -19,7 +19,7 @@ cd rygrad.com-translations
 
 ## Mevcut bir dil nasıl düzenlenir
 
-Örneğin türkçe dilini düzenlemek için ilgili dosyayı açın, translations.tr.json'u açıp hemen düzenlemeye başlayabilir ve çatallı deponuza yeni değişiklikler gönderip bir çekme isteği yapabilirsiniz.
+Örneğin türkçe dilini düzenlemek için ilgili dosyayı açın, translations.tr.json'u açıp hemen düzenlemeye başlayabilir ve forkladığınız deponuza yeni değişiklikler gönderip bir çekme isteği yapabilirsiniz.
 
 ## Yeni bir dil nasıl eklenir
 
